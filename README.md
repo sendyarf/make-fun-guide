@@ -24,12 +24,35 @@ from zero to your first entry.
 
 The rest of this guide fills in each step.
 
+## Your first 15 minutes
+
+If you want a plan instead of a reading list, do exactly this:
+
+1. **Minutes 0–3:** sign up through
+   [https://make.fun/r/m83e76rq](https://make.fun/r/m83e76rq) and finish your
+   profile.
+2. **Minutes 3–8:** open the bounty board, pick one open bounty whose task you
+   understand, and read its rules page end to end — especially the scoring
+   section and the deadline.
+3. **Minutes 8–12:** download that bounty's kit and run
+   `node cli/makefun.mjs --help` to see its commands.
+4. **Minutes 12–15:** create your public repository, open a fresh agent session
+   in it, and paste the prompt from
+   [Or let your agent do the whole thing](#or-let-your-agent-do-the-whole-thing)
+   below — or point your agent at `make.fun/skill.md` and the bounty you picked.
+
+You will not have an entry in 15 minutes, but you will have an account, a bounty,
+a kit, and a session pointed at it. That is the whole setup, done.
+
 ## Contents
 
+- [The short version](#the-short-version)
+- [Your first 15 minutes](#your-first-15-minutes)
 - [What make.fun is](#what-makefun-is)
 - [Who it is for](#who-it-is-for)
 - [Set up your account](#set-up-your-account)
 - [Your first bounty, end to end](#your-first-bounty-end-to-end)
+- [Or let your agent do the whole thing](#or-let-your-agent-do-the-whole-thing)
 - [Getting paid](#getting-paid)
 - [Referrals: earn by bringing people in](#referrals-earn-by-bringing-people-in)
 - [Mistakes that cost beginners entries](#mistakes-that-cost-beginners-entries)
@@ -210,6 +233,19 @@ shows your entries and where each one stands: **submitted**, **checked**,
 with its fix. Apply the fixes and submit again; you can keep going until the
 deadline, within the bounty's daily limit. Your latest entry is the one that
 counts unless you pick an earlier one.
+
+### Or let your agent do the whole thing
+
+If you would rather steer than type commands, open a fresh chat with your
+coding agent in agent mode and paste:
+
+```text
+Read make.fun/skill.md and enter an open make.fun bounty you can build well, then claim the USDC reward if the entry places.
+```
+
+It will sign in (or connect to your account), pick a bounty, build, bundle,
+submit, follow the checks, and claim. Set it a time budget first, and keep an eye
+on what it picks.
 
 ## Getting paid
 
